@@ -8,9 +8,15 @@ Please see [CONTRIBUTING](https://github.com/leverage-latitude/awesome-unipaas/b
 ## Table of Contents
 - [Awesome Unipaas](#awesome-unipaas)
    - [UniPaas Tools](#unipaas-tools)
+   - [Code Examples](#code-examples)
 
 ### UniPaas Tools
 *UniPaas Tools.*
 
 * [Magic Optimizer](https://www.magic-optimizer.com) - By Ocean Software Solutions - Analyze, Optimize and Document your project.
 * [Magic Compare](https://www.magic-optimizer.com) - By Ocean Software Solutions - Compare Magic xpa projects and see the changes in Magic xpa format. Without using xml files comparison tools.
+
+### Code Examples
+*Code Examples.*
+
+* [AdMagicTools](https://github.com/AlainDessi/AdMagicTools) - [By Alain Dessi](https://www.alain-dessi.com) - Very interesting Calendar program
