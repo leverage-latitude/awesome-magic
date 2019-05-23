@@ -7,7 +7,7 @@ Please see [CONTRIBUTING](https://github.com/leverage-latitude/awesome-unipaas/b
 
 ## Table of Contents
 - [Awesome Unipaas](#awesome-unipaas)
-   - [Composer Repositories](#unipaas-tools)
+   - [UniPaas Tools](#unipaas-tools)
 
 ### UniPaas Tools
 *UniPaas Tools.*
