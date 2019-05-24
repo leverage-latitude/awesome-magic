@@ -1,5 +1,5 @@
 # Contribution Guidelines
-The aim of Awesome Unipaas is to be a concise list of noteworthy and interesting software or tools written in Unipaas. 
+The aim of Awesome Magic is to be a concise list of noteworthy and interesting software or tools written in Magic. 
 
 Self-promotion is very much encouraged!
 
